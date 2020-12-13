@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on a redesign of my personal music lyrics webpage.
-- 🌱 I’m ~currently~ awalys learning ... NodeJS, Python, GIS, DataViz, Web Development, Project Management and Life.
+- 🌱 I’m ~currently~ awalys learning ... NodeJS, R, Python, GIS, DataViz, Web Development, Project Management and Life.
 - 👯 I’m looking to collaborate on ... Any MapboxGL JS project or other GIS projects that work towards the public good.
 - 🤔 I’m looking for help with ... An open source map viewer/portal template and UI.
 - 📫 How to reach me: ... @getbounds on Twitter.
