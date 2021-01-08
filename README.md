@@ -17,11 +17,11 @@
 
 [Peaks](https://peaks.getbounds.com)
 
-A US mountain peak visualization app.
+US Mountain Peak Visualization
 
 [Pandemix](https://pandemix.getbounds.com)
 
-A COVID-19 visualization app.
+COVID-19 Spread Visualization
 
 [Map Compare](https://map-compare.apps.zerospatial.com)
 
