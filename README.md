@@ -10,3 +10,17 @@
 - 🤔 I’m looking for help with ... An open source map viewer/portal template and UI.
 - 📫 How to reach me: ... @getbounds on Twitter.
 - ⚡ Fun fact: ... I once to hosted a dancehall reggae radio show on my college radio station.
+
+### Recent Projects
+---
+[Peaks](https://peaks.getbounds.com)
+
+A US mountain peak visualization app.
+
+[Pandemix](https://pandemix.getbounds.com)
+
+A COVID-19 visualization app.
+
+[Map Compare](https://map-compare.apps.zerospatial.com)
+
+Vector Tiles shown in four different libraries.
