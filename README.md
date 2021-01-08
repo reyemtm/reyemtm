@@ -11,8 +11,10 @@
 - 📫 How to reach me: ... @getbounds on Twitter.
 - ⚡ Fun fact: ... I once to hosted a dancehall reggae radio show on my college radio station.
 
-### Recent Projects
 ---
+
+### Recent Projects
+
 [Peaks](https://peaks.getbounds.com)
 
 A US mountain peak visualization app.
