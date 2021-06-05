@@ -1,8 +1,4 @@
-### Hi there 👋
-
-<!--
-**reyemtm/reyemtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+## Hi there 👨‍💻
 
 - 🔭 I’m currently working on a redesign of my personal music lyrics webpage.
 - 🌱 I’m ~currently~ awalys learning ... NodeJS, R, Python, GIS, DataViz, Web Development, Project Management and Life.
@@ -13,16 +9,16 @@
 
 ---
 
-### Recent Projects
+## Recent Projects
 
-[Peaks](https://peaks.getbounds.com)
-
+### [Peaks](https://peaks.getbounds.com)
+![Mt Rainier Image](https://peaks.getbounds.com/img/peaks.png)
 US Mountain Peak Visualization
 
-[Pandemix](https://pandemix.getbounds.com)
-
+### [Pandemix](https://pandemix.getbounds.com)
+![](https://pandemix.netlify.app/pandemix.png)
 COVID-19 Spread Visualization
 
-[Map Compare](https://map-compare.apps.zerospatial.com)
-
+### [Map Compare](https://map-compare.apps.zerospatial.com)
+![](https://map-compare.apps.zerospatial.com/image.jpg)
 Vector Tiles shown in four different libraries.
