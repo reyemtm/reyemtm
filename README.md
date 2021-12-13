@@ -2,11 +2,19 @@
 
 > Changing the world through maps and data.
 
+---
+
 - 👨‍💻 Ten years in the Geospatial sector.
 - 🗺️ Expereinced in Mapbox and Leaflet web map creation.
 - 📫 You can reach me at [@getbounds](https://twitter.com/getbounds) on Twitter.
 - 🌐 Check out my [getBounds blog](https://www.getbounds.com) for more examples of my work and writing.
 - 🎧 I love reggae music and once hosted a dancehall radio show.
+
+---
+
+- [Contact](https://www.getbounds.com/#contact)
+- [Blog](https://www.getbounds.com)
+- [Project List](#project-list)
 
 ---
 
