@@ -46,7 +46,7 @@ Vector Tiles shown in four different libraries.
 
 ### [Elevation Query](https://github.com/reyemtm/elevationQuery)
 
-[Observable](https://observablehq.com/@reyemtm/query-elevations-using-usgs-and-gmrt
+[Observable](https://observablehq.com/@reyemtm/query-elevations-using-usgs-and-gmrt)
 
 *A tool that queries publicly available elevations for a given set of points and returns the result as an array.*
 
