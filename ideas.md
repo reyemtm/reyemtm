@@ -5,3 +5,4 @@
 - [ ] custom mapbox styles examples post
 - [ ] Static site generator for web map portal
 - [ ] Using google sheets as map backend
+- [ ] https://github.com/braydoncoyer
