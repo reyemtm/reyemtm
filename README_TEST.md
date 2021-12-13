@@ -97,8 +97,8 @@ Vector Tiles shown in four different libraries.
 *GitHub portfolio of Malcolm T Meyer*
 ### Recent Blog Posts
 
-  * [](https://www.getbounds.com/blog/foss4g-imagery-processing/)
-  * [](https://www.getbounds.com/blog/generating-cloud-optimized-geotiffs-and-raster-tiles-with-gdal/)
-  * [](https://www.getbounds.com/blog/from-the-ashes-of-shapefiles/)
-  * [](https://www.getbounds.com/blog/gis-and-remote-work/)
-  * [](https://www.getbounds.com/blog/exporting-agol-feature-services/)
+  * [FOSS4G Image Processing](https://www.getbounds.com/blog/foss4g-imagery-processing/)
+  * [Generating Cloud Optimized GeoTIFFs and Raster Tiles with GDAL](https://www.getbounds.com/blog/generating-cloud-optimized-geotiffs-and-raster-tiles-with-gdal/)
+  * [From the Ashes of Shapefiles](https://www.getbounds.com/blog/from-the-ashes-of-shapefiles/)
+  * [GIS and Remote Work](https://www.getbounds.com/blog/gis-and-remote-work/)
+  * [Exporting AGOL Feature Services to GeoJSON](https://www.getbounds.com/blog/exporting-agol-feature-services/)
