@@ -30,8 +30,8 @@ Vector Tiles shown in four different libraries.
 
 ## Project List
 
-- [WMTS-Server](https://github.com/reyemtm/wmts-server)
-
+[WMTS-Server](https://github.com/reyemtm/wmts-server)
+*WMTS tile server written in NodeJS that serves wmts services, XYZ tiles and tilejson from mbtiles containing vector or raster tiles.*
 ---
 
 *GitHub portfolio of Malcolm T Meyer*
