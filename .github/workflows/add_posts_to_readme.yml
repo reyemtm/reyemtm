@@ -33,14 +33,14 @@ jobs:
       run: curl https://www.getbounds.com/feed.xml > feed.xml 
     
     - name: Perform XSL Transformation
-      run: java -cp ./saxon.jar net.sf.saxon.Transform -s:feed.xml -xsl:$GITHUB_WORKSPACE/scripts/recent-posts.xslt -o:README_END.md
+      run: java -cp ./saxon.jar net.sf.saxon.Transform -s:feed.xml -xsl:$GITHUB_WORKSPACE/scripts/recent-posts.xslt -o:README_DYNAMIC.md
 
     - name: Combine Files
-      run: cat $GITHUB_WORKSPACE/README.md README_END.md > $GITHUB_WORKSPACE/README_TEST.md
+      run: cat $GITHUB_WORKSPACE/README_STATIC.md README_DYNAMIC.md > $GITHUB_WORKSPACE/README.md
     
     - name: Commit Changes
       run:  |
-        git add README_TEST.md
+        git add README.md
         git diff
         git config --global user.email "github-action-bot@example.com"
         git config --global user.name "GitHub Action Bot"
