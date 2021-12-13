@@ -1,14 +1,16 @@
-## Welcome
+# Hi, I'm Malcolm Meyer
 
-> Looking for opportunities to change the world through maps and data.
+Here's my coding mission:
 
----
+> To bring about positive change in the world through code, maps, and open data.
+
+## About Me
 
 - 👨‍💻 Ten years in the Geospatial sector.
 - 🗺️ Expereinced in Mapbox and Leaflet web map creation.
-- ✨ Occasionally posts as [@getbounds](https://twitter.com/getbounds) on Twitter.
+- ✨ Occasionally post as [@getbounds](https://twitter.com/getbounds) on Twitter.
 - 🌐 Check out my [getBounds blog](https://www.getbounds.com) for more examples of my work and writing.
-- 🎧 I grew up listening to reggae music and once hosted a dancehall radio show.
+- 🎧 Grew up listening to reggae music and once hosted a dancehall radio show.
 
 ---
 
