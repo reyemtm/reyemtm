@@ -52,21 +52,21 @@ Vector Tiles shown in four different libraries.
 
 ### [GeoJSON Network Trace](https://github.com/reyemtm/geojson-network-control)
 
-*A GeoJSON Network trace tool for simple upstream and downstream network tracing.*
-
 [Blog Post](https://www.getbounds.com/blog/network-tracing-with-turfjs/)
+
+*A GeoJSON Network trace tool for simple upstream and downstream network tracing.*
 
 ### [Leaflet Store Locator](https://github.com/reyemtm/leaflet-store-locator)
 
-*A responsive open source store locator built with Leaflet and Bootstrap and based on the original Mapbox JS example.*
-
 [Example](https://reyemtm.github.io/leaflet-store-locator/demo.html)
+
+*A responsive open source store locator built with Leaflet and Bootstrap and based on the original Mapbox JS example.*
 
 ### [Mapbox Layer Control](https://github.com/reyemtm/mapbox-layer-control)
 
-*A layer control for Mapbox GL JS with groups and a filter function.*
-
 [Example](https://reyemtm.github.io/mapbox-layer-control/example/grouped.html#4.68/39.59/-97.56)
+
+*A layer control for Mapbox GL JS with groups and a filter function.*
 
 ### [Mapbox Story Map Template](https://github.com/reyemtm/mgl-story)
 
