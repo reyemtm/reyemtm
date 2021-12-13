@@ -36,7 +36,7 @@ jobs:
       run: java -cp ./saxon.jar net.sf.saxon.Transform -s:feed.xml -xsl:$GITHUB_WORKSPACE/scripts/recent-posts.xslt -o:README_DYNAMIC.md
 
     - name: Combine Files
-      run: cat $GITHUB_WORKSPACE/README_STATIC.md README_DYNAMIC.md > $GITHUB_WORKSPACE/README.md
+      run: cat $GITHUB_WORKSPACE/README_STATIC.md README_DYNAMIC.md README_FOOTER.md > $GITHUB_WORKSPACE/README.md
     
     - name: Commit Changes
       run:  |
