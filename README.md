@@ -10,7 +10,7 @@
 
 ---
 
-## Recent Projects
+## Highlighted Projects
 
 ### [Tilesize](https://tilesize.netlify.app/)
 ![Tile size list](https://raw.githubusercontent.com/reyemtm/reyemtm/master/tilesize.png)
@@ -27,6 +27,10 @@ COVID-19 Spread Visualization
 ### [Map Compare](https://map-compare.apps.zerospatial.com)
 ![](https://map-compare.apps.zerospatial.com/image.jpg)
 Vector Tiles shown in four different libraries.
+
+## Project List
+
+- [WMTS-Server](https://github.com/reyemtm/wmts-server)
 
 ---
 
