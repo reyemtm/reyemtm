@@ -1,11 +1,12 @@
-## Hi there 👨‍💻
+## Welcome
 
-- 🔭 I’m currently working on a redesign of my personal music lyrics webpage.
-- 🌱 I’m ~currently~ awalys learning ... NodeJS, R, Python, GIS, DataViz, Web Development, Project Management and Life.
-- 👯 I’m looking to collaborate on ... Any MapboxGL JS project or other GIS projects that work towards the public good.
-- 🤔 I’m looking for help with ... An open source map viewer/portal template and UI.
-- 📫 How to reach me: ... @getbounds on Twitter.
-- ⚡ Fun fact: ... I once to hosted a dancehall reggae radio show on my college radio station.
+> Changing the world through maps and data.
+
+- 👨‍💻 Ten years in the Geospatial sector.
+- 🗺️ Expereinced in Mapbox and Leaflet web map creation.
+- 📫 You can reach me at [@getbounds](https://twitter.com/getbounds) on Twitter.
+- 🌐 Check out my [getBounds blog](https://www.getbounds.com) for more examples of my work and writing.
+- 🎧 I love reggae music and once hosted a dancehall radio show.
 
 ---
 
