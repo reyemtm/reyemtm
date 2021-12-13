@@ -30,8 +30,58 @@ Vector Tiles shown in four different libraries.
 
 ## Project List
 
-[WMTS-Server](https://github.com/reyemtm/wmts-server)
+### [AGOL Cache](https://github.com/reyemtm/agol-cache)
+
+*A NodeJS script to download all layers within a public or protected ArcGIS Online Feature or Map Service as GeoJSON.*
+
+### [Elevation Query](https://github.com/reyemtm/elevationQuery)
+
+[Observable](https://observablehq.com/@reyemtm/query-elevations-using-usgs-and-gmrt
+
+*A tool that queries publicly available elevations for a given set of points and returns the result as an array.*
+
+### [GeoJSON Network Trace](https://github.com/reyemtm/geojson-network-control)
+
+*A GeoJSON Network trace tool for simple upstream and downstream network tracing.*
+
+[Blog Post](https://www.getbounds.com/blog/network-tracing-with-turfjs/)
+
+### [Leaflet Store Locator](https://github.com/reyemtm/leaflet-store-locator)
+
+*A responsive open source store locator built with Leaflet and Bootstrap and based on the original Mapbox JS example.*
+
+[Example](https://reyemtm.github.io/leaflet-store-locator/demo.html)
+
+### [Mapbox Layer Control](https://github.com/reyemtm/mapbox-layer-control)
+
+*A layer control for Mapbox GL JS with groups and a filter function.*
+
+[Example](https://reyemtm.github.io/mapbox-layer-control/example/grouped.html#4.68/39.59/-97.56)
+
+### [Mapbox Story Map Template](https://github.com/reyemtm/mgl-story)
+
+*A simple Mapbox GL JS Story Map template built using the original Mapbox JS example.*
+
+### [OpenStreetMap ArcGIS Pro Style](https://github.com/reyemtm/openstreetmap-styles)
+
+*A collection (currently 1) of desktop basemap styles for OpenStreetMap.*
+
+### [Parcel Viewer](https://github.com/reyemtm/parcel-viewer)
+
+*Open Parcel Viewer - A mobile ready web app for displaying 50k parcels or polygons without needing a GIS server.*
+
+### [Tilequery](https://github.com/reyemtm/tilequery)
+
+*A tool to query remote vector tiles and return GeoJSON features, limiting to an optional buffer.*
+
+### [vtile](https://github.com/reyemtm/vtile)
+
+*A tool to create vector tiles from the command line. It is essentially automation of geojson2mvt using TurfJS.*
+
+### [WMTS-Server](https://github.com/reyemtm/wmts-server)
+
 *WMTS tile server written in NodeJS that serves wmts services, XYZ tiles and tilejson from mbtiles containing vector or raster tiles.*
+
 ---
 
 *GitHub portfolio of Malcolm T Meyer*
