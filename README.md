@@ -24,6 +24,8 @@
 ![Tile size list](https://raw.githubusercontent.com/reyemtm/reyemtm/master/tilesize.png)
 Slippy Map Tile Size Estimator
 
+*This tool was adapted from the [Tile Calculator](http://betaserver.icgc.cat/visor/calculator.html) (CC-BY ICGCat) by Geostart ([@geostarters](https://twitter.com/geostarters)).*
+
 ### [Peaks](https://peaks.getbounds.com)
 ![Mt Rainier Image](https://peaks.getbounds.com/img/peaks.png)
 US Mountain Peak Visualization
