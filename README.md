@@ -27,3 +27,7 @@ COVID-19 Spread Visualization
 ### [Map Compare](https://map-compare.apps.zerospatial.com)
 ![](https://map-compare.apps.zerospatial.com/image.jpg)
 Vector Tiles shown in four different libraries.
+
+---
+
+*GitHub portfolio of Malcolm T Meyer*
