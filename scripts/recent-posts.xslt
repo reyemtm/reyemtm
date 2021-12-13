@@ -5,7 +5,7 @@
     <xsl:strip-space elements="*"/>
 
     <xsl:template match="/at:feed">
-        <xsl:text>### Recent Blog Posts</xsl:text>
+        <xsl:text>## Recent Blog Posts</xsl:text>
         <xsl:text>&#xa;&#xa;</xsl:text>
         <xsl:apply-templates/>
     </xsl:template>
