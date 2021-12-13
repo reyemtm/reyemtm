@@ -1,6 +1,6 @@
 ## Welcome
 
-> Changing the world through maps and data.
+> Looking for opportunities to change the world through maps and data.
 
 ---
 
