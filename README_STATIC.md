@@ -12,9 +12,10 @@
 
 ---
 
-- [Contact](https://www.getbounds.com/#contact)
 - [Blog](https://www.getbounds.com)
+- [Contact](https://www.getbounds.com/#contact)
 - [Project List](#project-list)
+- [Recent Blog Posts](#recent-blog-posts)
 
 ---
 
