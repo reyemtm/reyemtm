@@ -12,7 +12,7 @@
 
     <!-- Only display the first 5 posts from the list -->
     <xsl:template match="at:entry[position() &lt; 6]">
-        <xsl:value-of select="concat('  * [', at:link/@title, '](', at:link/@href, ')')"/>
+        <xsl:value-of select="concat('  * [', at:title/text(), '](', at:link/@href, ')')"/>
         <xsl:text>&#xa;</xsl:text>
     </xsl:template>
 
