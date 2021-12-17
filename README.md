@@ -12,6 +12,8 @@ Here's my coding mission:
 - 🌐 Check out my [getBounds blog](https://www.getbounds.com) for more examples of my work and writing.
 - 🎧 Grew up listening to reggae music and once hosted a dancehall radio show.
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Freyemtm%2Fhit-counter&count_bg=%23D208EA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ---
 
 - [Blog](https://www.getbounds.com)
