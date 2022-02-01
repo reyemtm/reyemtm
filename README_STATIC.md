@@ -31,6 +31,11 @@ Slippy Map Tile Size Estimator
 
 *This tool was adapted from the [Tile Calculator](http://betaserver.icgc.cat/visor/calculator.html) (CC-BY ICGCat) by Geostart ([@geostarters](https://twitter.com/geostarters)).*
 
+### Transit Map
+
+![Transit Map](https://raw.githubusercontent.com/reyemtm/reyemtm/master/transit_map.png)
+A transit route map for the Lancaster-Fairfield Public Transit.
+
 ### [Peaks](https://peaks.getbounds.com)
 ![Mt Rainier Image](https://peaks.getbounds.com/img/peaks.png)
 US Mountain Peak Visualization
