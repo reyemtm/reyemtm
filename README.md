@@ -7,7 +7,7 @@ Here's my coding mission:
 ## About Me
 
 - 👨‍💻 Ten years in the Geospatial sector.
-- 🗺️ Expereinced in Mapbox and Leaflet web map creation.
+- 🗺️ Expereinced in Mapbox GL JS and Leaflet development and web map creation.
 - ✨ Occasionally post as [@getbounds](https://twitter.com/getbounds) on Twitter.
 - 🌐 Check out my [getBounds blog](https://www.getbounds.com) for more examples of my work and writing.
 - 🎧 Grew up listening to reggae music and once hosted a dancehall radio show.
