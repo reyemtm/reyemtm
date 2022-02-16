@@ -103,11 +103,11 @@ Vector Tiles shown in four different libraries.
 *WMTS tile server written in NodeJS that serves wmts services, XYZ tiles and tilejson from mbtiles containing vector or raster tiles.*
 ## Recent Blog Posts
 
+  * [City of Lancaster Public Transit](https://www.getbounds.com/projects/featured/prj-2022-02-09-Transit-Map/)
+  * [Peaks 3D Visualization](https://www.getbounds.com/projects/featured/prj-2022-02-08-Peaks-3D-Visualization/)
   * [Export GeoJSON from PostgreSQL using Beekeeper Studio](https://www.getbounds.com/blog/Export-GeoJSON-from-PostgreSQL-using-Beekeeper-Studio/)
   * [FOSS4G Image Processing](https://www.getbounds.com/blog/foss4g-imagery-processing/)
   * [Generating Cloud Optimized GeoTIFFs and Raster Tiles with GDAL](https://www.getbounds.com/blog/generating-cloud-optimized-geotiffs-and-raster-tiles-with-gdal/)
-  * [From the Ashes of Shapefiles](https://www.getbounds.com/blog/from-the-ashes-of-shapefiles/)
-  * [GIS and Remote Work](https://www.getbounds.com/blog/gis-and-remote-work/)
 ---
 
 *GitHub portfolio of Malcolm T Meyer*
