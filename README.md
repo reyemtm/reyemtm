@@ -2,7 +2,7 @@
 
 Here's my coding mission:
 
-> To bring about positive change in the world through code, maps, and open data.
+> Countering postapocalyptic narratives and possible futures with code, maps, and music.
 
 ## About Me
 
