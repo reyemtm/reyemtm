@@ -41,7 +41,7 @@ A transit route map for the Lancaster-Fairfield Public Transit.
 US Mountain Peak Visualization
 
 ### [Pandemix](https://pandemix.getbounds.com)
-![](https://pandemix.netlify.app/pandemix.png)
+
 COVID-19 Spread Visualization
 
 ### [Map Compare](https://map-compare.apps.zerospatial.com)
