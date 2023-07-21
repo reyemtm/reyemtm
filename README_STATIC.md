@@ -25,12 +25,6 @@ Here's my coding mission:
 
 ## Highlighted Projects
 
-### [Tilesize](https://tilesize.netlify.app/)
-![Tile size list](https://raw.githubusercontent.com/reyemtm/reyemtm/master/tilesize.png)
-Slippy Map Tile Size Estimator
-
-*This tool was adapted from the [Tile Calculator](http://betaserver.icgc.cat/visor/calculator.html) (CC-BY ICGCat) by Geostart ([@geostarters](https://twitter.com/geostarters)).*
-
 ### Transit Map
 
 ![Transit Map](https://raw.githubusercontent.com/reyemtm/reyemtm/master/transit_map.png)
@@ -40,13 +34,19 @@ A transit route map for the Lancaster-Fairfield Public Transit.
 ![Mt Rainier Image](https://peaks.getbounds.com/img/peaks.png)
 US Mountain Peak Visualization
 
-### [Pandemix](https://pandemix.getbounds.com)
-
+### Pandemix
+![](https://pandemix.netlify.app/pandemix.png)
 COVID-19 Spread Visualization
 
 ### [Map Compare](https://map-compare.apps.zerospatial.com)
 ![](https://map-compare.apps.zerospatial.com/image.jpg)
 Vector Tiles shown in four different libraries.
+
+### [Tilesize](https://tilesize.netlify.app/)
+![Tile size list](https://raw.githubusercontent.com/reyemtm/reyemtm/master/tilesize.png)
+Slippy Map Tile Size Estimator
+
+*This tool was adapted from the [Tile Calculator](http://betaserver.icgc.cat/visor/calculator.html) (CC-BY ICGCat) by Geostart ([@geostarters](https://twitter.com/geostarters)).*
 
 ## Project List
 
