@@ -39,7 +39,7 @@ US Mountain Peak Visualization
 COVID-19 Spread Visualization
 
 ### [Map Compare](https://map-compare.apps.zerospatial.com)
-![](https://map-compare.apps.zerospatial.com/image.jpg)
+![](https://reyemtm.github.io/map-compare/image.jpg)
 Vector Tiles shown in four different libraries.
 
 ### [Tilesize](https://tilesize.netlify.app/)
