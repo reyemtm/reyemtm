@@ -38,7 +38,7 @@ US Mountain Peak Visualization
 ![](https://pandemix.netlify.app/pandemix.png)
 COVID-19 Spread Visualization
 
-### [Map Compare]([https://map-compare.apps.zerospatial.com](https://reyemtm.github.io/map-compare)
+### [Map Compare](https://reyemtm.github.io/map-compare/)
 ![](https://reyemtm.github.io/map-compare/image.jpg)
 Vector Tiles shown in four different libraries.
 
