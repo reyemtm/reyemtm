@@ -12,8 +12,6 @@ Here's my coding mission:
 - 🌐 Check out my [getBounds blog](https://www.getbounds.com) for my full portfolio.
 - 🎧 Grew up listening to reggae music and once hosted a dancehall radio show.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Freyemtm%2Fhit-counter&count_bg=%23D208EA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ---
 
 - [Blog](https://www.getbounds.com)
@@ -26,6 +24,11 @@ Here's my coding mission:
 ## Highlighted Projects
 
 ### NWS Radar (CONUS) for TRMNL
+
+![Sample Image](https://github.com/user-attachments/assets/737734d5-84df-4b52-ace0-33e9c54d0dbc")
+
+A highly modified version of the NWS Radar using Stamen Toner basemap for easier viewing on a TRMNL device. The United States and Canda only - the areas covered by the NWS radar. The blues and greens tend to blend together - but the yellows - which indicate heavier rain - are marked by angled hashes, and the reds are the darkest color - usually surrounded by yellow/angled hashes.
+
 
 
 ### Transit Map
