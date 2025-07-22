@@ -1,9 +1,5 @@
 # Hi, I'm Malcolm Meyer
 
-Here's my coding mission:
-
-> Countering postapocalyptic narratives and possible futures with code, maps, and music.
-
 ## About Me
 
 - 👨‍💻 Ten+ years in the Geospatial sector.
