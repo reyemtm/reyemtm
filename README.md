@@ -7,12 +7,10 @@ Here's my coding mission:
 ## About Me
 
 - 👨‍💻 Ten years in the Geospatial sector.
-- 🗺️ Expereinced in Mapbox and Leaflet web map creation.
+- 🗺️ Expereince with React and Mapbox GL JS/Leaflet integration.
 - ✨ Occasionally post as [@getbounds](https://twitter.com/getbounds) on Twitter.
-- 🌐 Check out my [getBounds blog](https://www.getbounds.com) for more examples of my work and writing.
+- 🌐 Check out my [getBounds blog](https://www.getbounds.com) for my full portfolio.
 - 🎧 Grew up listening to reggae music and once hosted a dancehall radio show.
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Freyemtm%2Fhit-counter&count_bg=%23D208EA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ---
 
@@ -25,11 +23,13 @@ Here's my coding mission:
 
 ## Highlighted Projects
 
-### [Tilesize](https://tilesize.netlify.app/)
-![Tile size list](https://raw.githubusercontent.com/reyemtm/reyemtm/master/tilesize.png)
-Slippy Map Tile Size Estimator
+### NWS Radar (CONUS) for TRMNL
 
-*This tool was adapted from the [Tile Calculator](http://betaserver.icgc.cat/visor/calculator.html) (CC-BY ICGCat) by Geostart ([@geostarters](https://twitter.com/geostarters)).*
+![Sample Image](https://github.com/user-attachments/assets/737734d5-84df-4b52-ace0-33e9c54d0dbc)
+
+A highly modified version of the NWS Radar using Stamen Toner basemap for easier viewing on a TRMNL device. The United States and Canda only - the areas covered by the NWS radar. The blues and greens tend to blend together - but the yellows - which indicate heavier rain - are marked by angled hashes, and the reds are the darkest color - usually surrounded by yellow/angled hashes.
+
+
 
 ### Transit Map
 
@@ -40,13 +40,19 @@ A transit route map for the Lancaster-Fairfield Public Transit.
 ![Mt Rainier Image](https://peaks.getbounds.com/img/peaks.png)
 US Mountain Peak Visualization
 
-### [Pandemix](https://pandemix.getbounds.com)
+### Pandemix
 ![](https://pandemix.netlify.app/pandemix.png)
 COVID-19 Spread Visualization
 
-### [Map Compare](https://map-compare.apps.zerospatial.com)
-![](https://map-compare.apps.zerospatial.com/image.jpg)
+### [Map Compare](https://reyemtm.github.io/map-compare/)
+![](https://reyemtm.github.io/map-compare/image.jpg)
 Vector Tiles shown in four different libraries.
+
+### [Tilesize](https://tilesize.netlify.app/)
+![Tile size list](https://raw.githubusercontent.com/reyemtm/reyemtm/master/tilesize.png)
+Slippy Map Tile Size Estimator
+
+*This tool was adapted from the [Tile Calculator](http://betaserver.icgc.cat/visor/calculator.html) (CC-BY ICGCat) by Geostart ([@geostarters](https://twitter.com/geostarters)).*
 
 ## Project List
 
@@ -103,11 +109,11 @@ Vector Tiles shown in four different libraries.
 *WMTS tile server written in NodeJS that serves wmts services, XYZ tiles and tilejson from mbtiles containing vector or raster tiles.*
 ## Recent Blog Posts
 
-  * [City of Lancaster Public Transit](https://www.getbounds.com/projects/featured/prj-2022-02-09-Transit-Map/)
-  * [Peaks 3D Visualization](https://www.getbounds.com/projects/featured/prj-2022-02-08-Peaks-3D-Visualization/)
-  * [Export GeoJSON from PostgreSQL using Beekeeper Studio](https://www.getbounds.com/blog/Export-GeoJSON-from-PostgreSQL-using-Beekeeper-Studio/)
-  * [FOSS4G Image Processing](https://www.getbounds.com/blog/foss4g-imagery-processing/)
-  * [Generating Cloud Optimized GeoTIFFs and Raster Tiles with GDAL](https://www.getbounds.com/blog/generating-cloud-optimized-geotiffs-and-raster-tiles-with-gdal/)
+  * [Palisades Fire Before and After](https://www.getbounds.com/blog/palisades-fire-before-and-after/)
+  * [Deck GL and 3D Tiles](https://www.getbounds.com/blog/deckgl-3d-tiles/)
+  * [Finding Perpendicular lines with TurfJS](https://www.getbounds.com/blog/perpendicular-lines-with-turfjs/)
+  * [MapCompare](https://www.getbounds.com/projects/prj-2023-11-07-MapCompare/)
+  * [GeoJSON Network Trace Tool](https://www.getbounds.com/projects/prj-2023-09-29-GeoJSON-Trace-Tool/)
 ---
 
 *GitHub portfolio of Malcolm T Meyer*
