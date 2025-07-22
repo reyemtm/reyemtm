@@ -25,7 +25,7 @@ Here's my coding mission:
 
 ### NWS Radar (CONUS) for TRMNL
 
-![Sample Image](https://github.com/user-attachments/assets/737734d5-84df-4b52-ace0-33e9c54d0dbc")
+![Sample Image](https://github.com/user-attachments/assets/737734d5-84df-4b52-ace0-33e9c54d0dbc)
 
 A highly modified version of the NWS Radar using Stamen Toner basemap for easier viewing on a TRMNL device. The United States and Canda only - the areas covered by the NWS radar. The blues and greens tend to blend together - but the yellows - which indicate heavier rain - are marked by angled hashes, and the reds are the darkest color - usually surrounded by yellow/angled hashes.
 
