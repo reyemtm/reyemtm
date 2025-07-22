@@ -6,17 +6,18 @@ Here's my coding mission:
 
 ## About Me
 
-- 👨‍💻 Ten years in the Geospatial sector.
+- 👨‍💻 Ten+ years in the Geospatial sector.
 - 🗺️ Expereince with React and Mapbox GL JS/Leaflet integration.
-- ✨ Occasionally post as [@getbounds](https://twitter.com/getbounds) on Twitter.
+- ✨ Occasionally post as [[@getbounds](https://bsky.app/profile/getbounds.bsky.social) on bluesky.
 - 🌐 Check out my [getBounds blog](https://www.getbounds.com) for my full portfolio.
 - 🎧 Grew up listening to reggae music and once hosted a dancehall radio show.
 
 ---
 
 - [Blog](https://www.getbounds.com)
-- [Contact](https://www.getbounds.com/#contact)
-- [Project List](#project-list)
+- [Web Experiments](https://www.getbounds.dev)
+- [Connect](https://www.getbounds.com/connect)
+- [Archive Project List](#project-list)
 - [Recent Blog Posts](#recent-blog-posts)
 
 ---
@@ -54,7 +55,7 @@ Slippy Map Tile Size Estimator
 
 *This tool was adapted from the [Tile Calculator](http://betaserver.icgc.cat/visor/calculator.html) (CC-BY ICGCat) by Geostart ([@geostarters](https://twitter.com/geostarters)).*
 
-## Project List
+## Archived Project List
 
 ### [AGOL Cache](https://github.com/reyemtm/agol-cache)
 
