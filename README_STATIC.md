@@ -20,6 +20,12 @@
 
 ## Highlighted Projects
 
+### NOAA Tides for TRMNL
+
+<img width="755" height="464" alt="image" src="https://github.com/user-attachments/assets/f9c6b506-b973-4915-b627-6b7aef9e402f" />
+
+A simple card layout of upcoming tides and water temperature from NOAA using their open API.
+
 ### NWS Radar (CONUS) for TRMNL
 
 <img width="758" height="454" alt="image" src="https://github.com/user-attachments/assets/7f384937-afe3-41e4-b2d1-7706664d1bb3" />
